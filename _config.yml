@@ -1,7 +1,7 @@
 # Site settings
 title: The Code of Music
 description: ""
-baseurl: "/the-code-of-music-2019-UG/"
+baseurl: "/the-code-of-music-spring-2019/"
 url: ""
 permalink: /:categories/:title
 exclude: [Gemfile, Gemfile.lock]
